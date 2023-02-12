@@ -1,1 +1,3 @@
 # React-Calculator
+
+Calculator.png
